@@ -11,3 +11,6 @@ This project helps you understand different types of tensors using Python and Py
 
 Run the Python script provided in this repository to explore and visualize tensor structures in various dimensions.  
 You'll get a clear idea of how tensors behave and are represented in code.
+
+```bash
+tensor.ipynb
