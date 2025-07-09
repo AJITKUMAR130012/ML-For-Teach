@@ -39,7 +39,7 @@ pip install -r requirement.txt
 ```
 
  ### ✅ Step 3: Train the Model
-Run end_to_end_ml.ipynb
+Run end_to_end_ml.ipynb <br>
 This will generate:
 
 model.pkl – Trained ML model.
@@ -54,7 +54,7 @@ streamlit run Deployment.py
 
 ### 🖼️ Sample UI
 
-![Streamlit UI]![image](https://github.com/user-attachments/assets/3832c967-2122-4c09-ba9b-876ab4a664bf)
+![image](https://github.com/user-attachments/assets/3832c967-2122-4c09-ba9b-876ab4a664bf)
 
 
 
