@@ -1,6 +1,6 @@
 # Placement Prediction ML Project
 
-This project predicts whether a student will get placed or not based on various features such as academic performance, skills, and background.
+This project predicts whether a student will get placed or not based on various features such as IQ and CGPA.
 
 ## 📂 Project Files
 
